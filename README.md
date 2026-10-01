@@ -50,7 +50,7 @@ Java
 
 ## 🚀 Featured Projects
 
-### 💊 [Pharmacy Management System (PMS)](YOUR_PMS_REPOSITORY_URL)
+### 💊 [Pharmacy Management System (PMS)](https://github.com/suprem-giri/PharmacyMS)
 
 A Django-based pharmacy management system designed to manage medicines, customers, orders, doctor appointments, prescriptions, and supplier requests.
 
@@ -67,11 +67,11 @@ A Django-based pharmacy management system designed to manage medicines, customer
 
 **Technologies:** Python · Django · SQLite · HTML · CSS · JavaScript · Bootstrap
 
-🔗 **Repository:** [View PMS on GitHub](YOUR_PMS_REPOSITORY_URL)
+🔗 **Repository:** [View PMS on GitHub](https://github.com/suprem-giri/PharmacyMS)
 
 ---
 
-### 📚 [BCA Notes](YOUR_BCA_NOTES_REPOSITORY_URL)
+### 📚 [BCA Notes](https://github.com/suprem-giri/bcanotes)
 
 A collection of study materials, notes, practical programs, and academic resources from my Bachelor of Computer Applications (BCA) journey.
 
@@ -87,7 +87,7 @@ The repository covers different subjects and programming concepts studied throug
 * ☕ Java programming and practicals
 * 📝 Semester notes and academic resources
 
-🔗 **Repository:** [View BCA Notes on GitHub](YOUR_BCA_NOTES_REPOSITORY_URL)
+🔗 **Repository:** [View BCA Notes on GitHub](https://github.com/suprem-giri/bcanote)
 
 ---
 

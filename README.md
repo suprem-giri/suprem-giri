@@ -21,39 +21,87 @@ I enjoy turning real-world requirements into functional applications, with a foc
 **Tools:** Git, GitHub, VS Code
 **Currently Learning:** Django REST Framework, pytest, Docker
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
-### 1. Pharmacy Management System
+### 💊 [Pharmacy Management System (PMS)](YOUR_PMS_REPOSITORY_URL)
 
-A Django-based application for managing medicines, customers, orders, doctor appointments, prescriptions, and supplier requests.
+A Django-based pharmacy management system designed to manage medicines, customers, orders, doctor appointments, prescriptions, and supplier requests.
 
-**Key features**
+**Key Features**
 
-* User authentication and role-based dashboards
-* Medicine management and expiry alerts
-* Online ordering and order status tracking
-* Doctor appointment scheduling
-* Supplier requests and prescription workflows
-* Dashboard statistics and reporting
+* 👤 User authentication and role-based access
+* 💊 Medicine Management
+* 🛒 Medicine ordering and order status tracking
+* 👨‍⚕️ Doctor appointment scheduling
+* 📋 Prescription management
+* 🏪 Supplier management and restocking requests
+* 📊 Dashboard with sales and management statistics
+* ⚠️ Low-stock and medicine-expiry alerts
 
-**Tech stack:** Python, Django, SQLite, HTML, CSS, JavaScript
+**Technologies:** Python · Django · SQLite · HTML · CSS · JavaScript · Bootstrap
 
-[View Repository](YOUR_PHARMACY_REPOSITORY_URL)
+🔗 **Repository:** [View PMS on GitHub](YOUR_PMS_REPOSITORY_URL)
 
-### 2. AI Career & Skill Recommendation System
+---
 
-A planned project to help users explore suitable career paths based on their skills, interests, and learning goals.
+### 📚 [BCA Notes](YOUR_BCA_NOTES_REPOSITORY_URL)
 
-**Planned features**
+A collection of study materials, notes, practical programs, and academic resources from my Bachelor of Computer Applications (BCA) journey.
 
-* Skill assessment and career recommendations
-* Skill gap identification
-* Personalized learning roadmaps
-* Progress tracking
+The repository covers different subjects and programming concepts studied throughout the BCA program.
 
-**Planned tech stack:** Python, Django, SQL, data analysis
+**Includes**
 
-[View Repository](YOUR_CAREER_PROJECT_URL)
+* 💻 Programming and Object-Oriented Programming
+* 🌐 Web Technology
+* 🖥️ Operating Systems
+* 🗄️ Database Management
+* 📊 Computer Graphics
+* ☕ Java programming and practicals
+* 📝 Semester notes and academic resources
+
+🔗 **Repository:** [View BCA Notes on GitHub](YOUR_BCA_NOTES_REPOSITORY_URL)
+
+---
+
+### ☕ [QR Cafe](https://github.com/suprem-giri/Qrcafe)
+
+A café-related software project developed as part of my learning journey.
+
+**Focus:** Python, Django, database management, and web application development.
+
+🔗 **Repository:** [View QR Cafe](https://github.com/suprem-giri/Qrcafe)
+
+---
+
+### 🌐 [Personal Website](https://github.com/suprem-giri/personal-website)
+
+My personal website project, built to showcase my background, projects, and development journey.
+
+**Technologies:** HTML · CSS · JavaScript
+
+🔗 **Repository:** [View Personal Website](https://github.com/suprem-giri/personal-website)
+
+---
+
+### 🐍 [Django Learning Repository](https://github.com/suprem-giri/django)
+
+A repository containing my Django learning and development work.
+
+**Focus:** Python web development, Django fundamentals, and backend development.
+
+🔗 **Repository:** [View Django Repository](https://github.com/suprem-giri/django)
+
+---
+
+### 💻 [JavaScript Practice](https://github.com/suprem-giri/basicjavascript)
+
+A collection of JavaScript exercises and practice programs from my learning journey.
+
+**Focus:** JavaScript fundamentals and programming practice.
+
+🔗 **Repository:** [View JavaScript Practice](https://github.com/suprem-giri/basicjavascript)
+
 
 ## 📚 Currently Learning
 

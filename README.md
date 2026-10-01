@@ -7,19 +7,46 @@ I'm a BCA student interested in backend development, database design, and buildi
 I enjoy turning real-world requirements into functional applications, with a focus on clean code, reliable business logic, and maintainable software.
 
 ## 🚀 What I'm Working On
-
-* Developing a Pharmacy Management System using Django
 * Improving my understanding of relational databases and ORM
 * Learning REST API development, automated testing, and deployment
 * Practicing Git, GitHub, and software development workflows
 
-## 🛠️ Technologies
+### 🛠️ Technologies
 
-**Languages:** Python, SQL, JavaScript, HTML, CSS, Java ,Learning React
-**Backend:** Django, Django ORM, Django Authentication
-**Database:** SQLite, PostgreSQL, Learning MongoDB
-**Tools:** Git, GitHub, VS Code
-**Currently Learning:** Django REST Framework, pytest, Docker
+## Languages- Python,SQL,HTML, CSS,JavaScript,PHP,
+
+
+
+## Backend Development
+
+Django
+Django ORM
+Django Authentication
+Node js (learning)
+
+## Databases
+
+SQLite
+PostgreSQL
+MongoDb(learning)
+
+## Tools
+Git
+GitHub
+VS Code
+Android Studio
+Intellij
+Xampp
+
+# Currently Learning
+
+
+Django REST Framework
+Automated testing
+API documentation
+Deployment and production configuration
+React Native
+Java
 
 ## 🚀 Featured Projects
 

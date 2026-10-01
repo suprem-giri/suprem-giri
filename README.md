@@ -146,4 +146,3 @@ To become a capable backend developer by building useful software, writing maint
 
 * GitHub: https://github.com/suprem-giri
 * LinkedIn: https://www.linkedin.com/in/suprem-giri-0b9142327/
-* Email: YOUR_PROFESSIONAL_EMAIL
